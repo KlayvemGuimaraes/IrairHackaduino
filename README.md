@@ -1,10 +1,10 @@
 # IRAIR - HACKADUINO 2023
-Projeto criado para a 3ª edição do HACKADUINO do CPS
-Irair: um sistema projetado para medir o peso de um travesseiro disposto na cama de um idoso. Se o sistema detectar que o travesseiro está mais leve, envia um sinal para o app
-Assim, o cuidador/enfermeiro poderá prontamente apanrar o idoso que está sentado ou caiu de seu leito/cama e prestar os socorros necessários mais rapidamente.
+> Projeto criado para a 3ª edição do HACKADUINO do CPS, com o tema: saúde;
 
-# CONTÉM
-- APK do app do projeto
-- App construído em blocos no kodular
+O Irair é um sistema inovador baseado em Arduino para monitorar o peso dos travesseiros de idosos, visando proporcionar cuidados mais eficazes. Detectando alterações no peso do travesseiro do idoso, o sistema envia alertas para um aplicativo, que está conectado ao dispositivo móvel do cuidador, permitindo que os resposáveis ajam rapidamente em situações de risco, evitando possíveis quedas e problemas. Essa tecnologia oferece uma abordagem proativa, melhorando a segurança e resposta a emergências, complementando o cuidado tradicional de forma inteligente e preventiva.
 
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+## Tecnologias
+> C# e Kodular.
+
+- APK do app (sistema do arduino)
+- App construído (feito com kodular)
